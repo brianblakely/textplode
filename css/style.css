@@ -1,0 +1,21 @@
+@import url("reset.css");
+@import url("set.css");
+
+
+html,
+body {
+	height: 100%;
+	text-align: center;
+}
+body * {
+	cursor: pointer;
+}
+p {
+	text-align: left;
+	width: 400px;
+	background: beige;
+}
+
+@media print {
+	
+}
